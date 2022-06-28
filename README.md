@@ -16,5 +16,6 @@ Correlation between Lifetime Value vs variables![Screenshot 2022-06-28 235226](h
 ![image](https://user-images.githubusercontent.com/4746631/176254477-88f43a6c-fbbf-4bc9-8f60-092a15045610.png)
 
 #Next Step : Classification of conversion - accuracy, precision & confusion metrics
-![image](https://user-images.githubusercontent.com/4746631/176254928-c7657a9c-8948-4f54-9d99-a4d4a9f6e744.png)  ![Uploading Screenshot 2022-06-28 235226.png…]()
+![image](https://user-images.githubusercontent.com/4746631/176254928-c7657a9c-8948-4f54-9d99-a4d4a9f6e744.png) 
+![Screenshot 2022-06-28 235226](https://user-images.githubusercontent.com/4746631/176255335-b1b9de21-752a-4df9-b208-1da2ca81ac00.png)
 ![image](https://user-images.githubusercontent.com/4746631/176255166-ad6ca862-ee38-448a-93e7-36385ea6b445.png)
