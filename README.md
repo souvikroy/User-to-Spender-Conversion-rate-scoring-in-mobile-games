@@ -11,9 +11,6 @@ Here, we can see the distribution of users across marketing channel
 Correlation across all variables(within users)
 ![image](https://user-images.githubusercontent.com/4746631/176254397-0f4af1f2-5dcd-4f25-9dc8-c0346fa6fa9a.png)
 
-Correlation between Lifetime Value vs variables
-
-![Screenshot 2022-06-28 235226](https://user-images.githubusercontent.com/4746631/176255101-77cba3a2-3372-43f8-b728-f7a3e49d1220.png)
 
 # Next Step : Classification of conversion - accuracy, precision & confusion metrics
 
