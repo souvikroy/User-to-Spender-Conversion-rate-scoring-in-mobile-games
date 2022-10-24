@@ -1,7 +1,7 @@
 # Conversion rate prediction for mobile games
 
 Conversion is known as the Active user to converted to purchaser(in-app in Mobile games)
-Here, I would like to show based on in-game behaviour how to classify converion & build a probability score for converion
+Here, I would like to show based on in-game behaviour how to classify conversion & build a probability score for conversion
 
 Input dataset(attached) is D14 usage & converted to customer or not
 
